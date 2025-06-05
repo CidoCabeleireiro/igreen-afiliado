@@ -1,6 +1,7 @@
 # Site do Parceiro iGreen Energy
 
-Este é um site de cartão pessoal para afiliados da iGreen Energy, explicando como funciona o serviço de economia na conta de luz e direcionando visitantes para contato via WhatsApp.
+<a href="https://github.com/CidoCabeleireiro/igreen-afiliado">Este é um site</a>
+ de cartão pessoal para afiliados da iGreen Energy, explicando como funciona o serviço de economia na conta de luz e direcionando visitantes para contato via WhatsApp.
 
 ## Conteúdo do Site
 
@@ -83,3 +84,8 @@ git push origin main
 ## Suporte
 
 Se precisar de ajuda com o site ou tiver dúvidas sobre a publicação no GitHub Pages, entre em contato.
+
+
+<p>&copy; 2025 - Desenvolvida por Otávio Malta. 
+                    <a href="https://github.com/OtavioMalta" target="_blank">GitHub</a> 
+   </p>
